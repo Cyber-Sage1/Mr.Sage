@@ -29,8 +29,7 @@ I'm currently learning and building real-world backend systems while documenting
 - Backend Engineering
 - System Design
 - Dsa
-- MERN Stack
-- AI & Cybersecurity
+- AI 
 
 ---
 
@@ -66,13 +65,3 @@ I'm currently learning and building real-world backend systems while documenting
 
 📺 [Mr.Sage YouTube Channel](https://www.youtube.com/@Cyber-_-Sage1)
 
----
-
-## Current Project
-
-🔥 CyberSage  
-AI-powered cybersecurity threat detection project
-
----
-
-> Code hard. Game harder. Build something real.
